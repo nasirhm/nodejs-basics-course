@@ -1,3 +1,3 @@
 var open = require('open');
 
-open('nasirhussain.me',)
+open('nasirhussain.me','firefox');
