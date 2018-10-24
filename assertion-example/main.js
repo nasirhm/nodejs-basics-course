@@ -5,6 +5,7 @@ function add(a,b) {
 }
 
 var value = add(1,2);
+//uncomment the following to check the examples one by one
 /*asserting with strict
 assert(value===3,"1 and 2 = 3");
 //equivalent to
